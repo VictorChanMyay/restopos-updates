@@ -1,0 +1,8 @@
+version: 1.3.0
+files:
+  - url: RestoPOS-Setup-1.3.0.exe
+    sha512: gUfuIqaZ4D5LfpRL5SNAcwaNGVQ7jFBHnIio6BADd6siTmBjSGUcmboHeHokP/qoq4Y0M5Opuw30sQ/3/Nlnvg==
+    size: 82749759
+path: RestoPOS-Setup-1.3.0.exe
+sha512: gUfuIqaZ4D5LfpRL5SNAcwaNGVQ7jFBHnIio6BADd6siTmBjSGUcmboHeHokP/qoq4Y0M5Opuw30sQ/3/Nlnvg==
+releaseDate: '2026-10-15T01:12:37.401Z'
